@@ -1,2 +1,6 @@
 # Environments
 .ocr_proj/
+
+# Folders:
+data/Images/
+data/Output/
